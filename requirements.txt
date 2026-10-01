@@ -1,0 +1,8 @@
+streamlit
+pydantic
+pandas
+openpyxl
+python-dotenv
+google-genai
+fastapi
+uvicorn

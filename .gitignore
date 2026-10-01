@@ -1,0 +1,19 @@
+# Environment
+.env
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Database
+data/*.db
+
+# Generated Excel files
+*.xlsx
+
+# Editor swap files
+*.swp
